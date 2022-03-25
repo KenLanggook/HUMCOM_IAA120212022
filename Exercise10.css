@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+    *{box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;}
+Body{ margin: 1; font-family: Arial, Helvetica, sans-serif;}
+.topnav{overflow: hidden; background-color: blueviolet;} 
+.topav a{float: left; display: block; color: rgb(192, 2, 250); text-align: center; padding: 16px 18px; text-decoration: none;}
+.topav a:hover{background-color: aquamarine; color: rgba(11, 80, 228, 0.658);}
+.content{background-color: blueviolet; padding: 12px; height: 200px;}
+.footer{background-color: blueviolet; padding: 12px;}
+</style>
+</head>
+<div class="topnav">
+    <a href="Sematic Wiki">https://github.com/KenLanggook/HUMCOM_IAA120212022/blob/main/Exercise8.html</a>
+</div>
+<div class="content">
+    <p>Link Above is Sematic Wiki</p>
+</div>
+<div class="footer">
+    <p>Footer</p>
+</div>
+</html>
